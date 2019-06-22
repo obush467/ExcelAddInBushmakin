@@ -1,0 +1,6 @@
+C:\Users\Олег\source\repos\ExcelAddInBushmakin\Database1\bin\Debug\Database1.dacpac
+C:\Users\Олег\source\repos\ExcelAddInBushmakin\Database1\bin\Debug\Database1.dll
+C:\Users\Олег\source\repos\ExcelAddInBushmakin\Database1\bin\Debug\Database1.pdb
+C:\Users\Олег\source\repos\ExcelAddInBushmakin\Database1\obj\Debug\Database1.dll
+C:\Users\Олег\source\repos\ExcelAddInBushmakin\Database1\obj\Debug\Database1.pdb
+C:\Users\Олег\source\repos\ExcelAddInBushmakin\Database1\bin\Debug\SqlFunction1.cs
